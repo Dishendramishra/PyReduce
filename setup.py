@@ -59,5 +59,6 @@ setup(
         "wget",
         "joblib",
         "jsonschema>=3.0.1",
+        "pyreduce-astro==0.2",
     ],
 )
